@@ -1,0 +1,34 @@
+prompt 1: 
+You are an assistant.
+
+Task: Summarize the given text using exactly two bullet points.
+
+Rules:
+- Do not add any new information.
+
+Text:
+Machine learning allows computers to learn patterns from data without being explicitly programmed.
+It is widely used in recommendation systems, fraud detection, and natural language processing.
+
+//////////////////////////////////////////////////////////////////////////
+
+prompt 2:
+You are an assistant specialized in text summarization.
+
+Task: Summarize the given text.
+
+Output format:
+- Use exactly two bullet points.
+
+Rules:
+- Do not add any new information.
+- Use only details present in the text.
+
+Text:
+Machine learning allows computers to learn patterns from data without being explicitly programmed.
+It is widely used in recommendation systems, fraud detection, and natural language processing.
+//////////////////////////////////////////////////////////////////////////
+
+task 3 :
+The second prompt is better because it is clearer and more specific. It tells the AI its role, how the answer should look, and what rules to follow.
+I improved it by adding a clear role, fixing the output format, and adding rules to avoid extra information.
